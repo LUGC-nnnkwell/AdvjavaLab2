@@ -11,6 +11,7 @@ public class Sport {
         setPhysical_activity(physical_activity);
     }
 
+
     public String getSports(){
         return sports;
     }
