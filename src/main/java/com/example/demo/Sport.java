@@ -41,7 +41,7 @@ public class Sport {
 
     public  String toString(){
         return  "The sport you play is:" + sports +'\n'+
-                "your height is: "+ height +'\n'+ physical_activity;
+                "your height is: "+ height +'\n'+ "Your physical activity is: " + physical_activity;
     }
 
 
